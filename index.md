@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+After reading about wire frames, HMTL, and Semantics, I feel like a have a good idea about how the process to start a simple webpage works and is created. With wire frames you basically take your vision for a webpage and you put it on paper or white board. You draw out your idea in blocks and you imagine what you want your app or webpage to look like. First you start with the layout, think about where you want the company logo to appear, where you want the log in button to appear and where you want the sign on button to appear. From there you get an idea of what you want your app or webpage to look like. It is a great brain storming tool that comes in handy.
 
-You can use the [editor on GitHub](https://github.com/marioa7770/read04.md/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The second section I read was about HTML. I learned how a basic webpage is created, first you start with creatin your element.An element consists of the opening and closing tags which is the name of the element wrapped in opening and closing angle brackets, this is telling where the element begins. The closing tag is the same as the opening tag except there is a forward slash before the name of the element inside the angle brackets , the content of the element is basically just text, the final product is the element which is the opening and closing tags, and the content all put together , in the example below I will create a P element
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<P>My Cat is always hungry and it meows to much</p>
 
-### Markdown
+you can also make certain words stand out with HTML for example
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marioa7770/read04.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<P>My Cat is <strong>VERY<strong>annoying</p>
+There are many more things you can do with HTML, you insert links, picture, route a user of your web page to a different website
